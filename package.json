@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xaoxuu/hexo-theme-resume.git"
+    "url": "git+https://github.com/aeneag/resume-hexo.git"
   },
   "keywords": [
     "hexo",
     "theme",
     "resume"
   ],
-  "author": "xaoxuu (https://github.com/xaoxuu/)",
+  "author": "xaoxuu (https://github.com/aeneag/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xaoxuu/hexo-theme-resume/issues"
+    "url": "https://github.com/aeneag/resume-theme/issues"
   },
-  "homepage": "https://resume.js.org",
+  "homepage": "https://dxinxia.icu",
   "devDependencies": {
     "hexo": "5.2.0"
   }

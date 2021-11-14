@@ -15,14 +15,11 @@ cdn:
 # robots meta tag
 robots: noindex,nofollow
 
-leancloud_visitors:
-  enable: true
-  appId: ktpo2NP2IJ8CAqRGMPMr3A7i-gzGzoHsz
-  appKey: J2Ci5sCf9JFkW996T5MPjLhp
+
 
 valine:   
-  appId: ktpo2NP2IJ8CAqRGMPMr3A7i-gzGzoHsz
-  appKey: J2Ci5sCf9JFkW996T5MPjLhp
+  appId: ***
+  appKey: ***
   avatar: monsterid  
   placeholder: 请在这里书写你想说的话~  
   pageSize: 15
