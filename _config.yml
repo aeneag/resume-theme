@@ -1,28 +1,31 @@
 cdn:
   # These base libraries cannot be deleted
-  jquery: https://cdn.jsdelivr.net/npm/jquery@3.5/dist/jquery.min.js
-  vue: https://cdn.jsdelivr.net/npm/vue@2.6/dist/vue.min.js
+  jquery: https://pic.aeneag.xyz/js-cdn/jquery.min.js
+  vue: https://pic.aeneag.xyz/js-cdn/vue.min.js
   # When these CDN resources are deleted, local resources are loaded.
-  common: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/common.js
-  escape: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/css.escape.js
-  smooth_scroll: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/js/smooth-scroll.min.js
-  # css: https://cdn.jsdelivr.net/gh/xaoxuu/hexo-theme-resume@1.0.0/source/css/style.min.css
+  common: https://pic.aeneag.xyz/js-cdn/common.js
+  escape: https://pic.aeneag.xyz/js-cdn/css.escape.js
+  smooth_scroll: https://pic.aeneag.xyz/js-cdn/smooth-scroll.min.js
+  # css: https://pic.aeneag.xyz/js-cdn/style.min.css
   # Optional plug-in: image zoom
   fancybox:
-    css: https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5/dist/jquery.fancybox.min.css
-    js: https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5/dist/jquery.fancybox.min.js
+    css: https://pic.aeneag.xyz/js-cdn/jquery.fancybox.min.css
+    js: https://pic.aeneag.xyz/js-cdn/jquery.fancybox.min.js
 
 # robots meta tag
 robots: noindex,nofollow
 
-
+leancloud_visitors:
+  enable: true
+  appId: ***
+  appKey: ***
 
 valine:   
   appId: ***
   appKey: ***
   avatar: monsterid  
   placeholder: 请在这里书写你想说的话~  
-  pageSize: 15
+  pageSize: 3
   visitor: true
 
 
